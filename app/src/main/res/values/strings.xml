@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GithubApiApp</string>
+    <string name="searchbar_hint">Cari...</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_activity">Ini adalah aplikasi github kawe</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="contribute">Repository</string>
+    <string name="content_tab_following">Following</string>
+    <string name="content_tab_followers">Followers</string>
+    <string name="username">username</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="tab_text_1">Following</string>
+    <string name="tab_text_2">Followers</string>
+</resources>
