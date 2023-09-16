@@ -12,7 +12,7 @@ import retrofit2.http.Path
 import retrofit2.http.Query
 
 interface ApiService {
-    @Headers("Authorization: token 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")
+
     @GET("search/users")
     fun getUser(@Query("q") query: String): Call<GithubResponse>
 
